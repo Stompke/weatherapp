@@ -1,0 +1,27 @@
+body {
+  background-color: #068387;
+}
+h3 {
+  font-size: 90px;
+  color: white;
+  font-family: arial;
+  text-shadow: 3px 3px #ccc;
+  text-outline: 15px 21px black;
+}
+.jumbotron {
+  background-color: #42eef4;
+  padding-bottom: 5px;
+  
+}
+
+.col {
+  background-color: white;
+
+}
+.row {
+  padding: 7px;
+  background-color: grey;
+}
+.btn {
+  margin: 5px;
+}
